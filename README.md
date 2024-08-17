@@ -1,4 +1,4 @@
-OpenCV with Python: A Practical Introduction to Computer Vision
+**OpenCV with Python: A Practical Introduction to Computer Vision**
 Welcome to the OpenCV with Python repository! This project is designed to help you learn computer vision using Python and OpenCV, one of the most powerful libraries in the field. Whether you're a complete beginner or looking to sharpen your skills, this course will guide you through practical projects that apply computer vision techniques to solve real-world problems.
 
 **📚 Course Overview**
