@@ -13,7 +13,7 @@ Welcome to the OpenCV with Python repository! This project is designed to help y
 - **Human Detection:** Techniques for detecting humans in images or video feeds.
 - **Vehicle Number Plate Recognition:** Implementing a basic system to detect and read vehicle number plates
 
-### Why OpenCV with Python?
+## Why OpenCV with Python?
 
 Python's simplicity and versatility make it one of the most popular programming languages. Combined with OpenCV, it opens up numerous job opportunities in fields like AI, machine learning, and data analysis.
 
@@ -22,7 +22,7 @@ Python's simplicity and versatility make it one of the most popular programming 
 - Practical Projects: Focusing on hands-on projects rather than theoretical concepts.
 - Real-World Applications: Apply what you learn to solve real-world problems.
   
-#### 🚀 Getting Started
+## 🚀 Getting Started
 
 Prerequisites:
 - Basic knowledge of Python.
