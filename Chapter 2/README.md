@@ -1,6 +1,6 @@
 # Chapter 2: Essential OpenCV Functions
 
-In this chapter, we are going to explore some essential OpenCV functions that are crucial for image processing tasks.
+In this chapter, we are going to explore some essential OpenCV functions that are crucial for image processing tasks..
 
 ## Table of Contents
 
